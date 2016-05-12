@@ -1,0 +1,37 @@
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\obj\Debug\KeeeXAddinOutlook2013_2016.Properties.Resources.resources
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\obj\Debug\KeeeXAddinOutlook2013_2016.Ribbon1.resources
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\obj\Debug\KeeeXAddinOutlook2013-2016.csproj.GenerateResource.Cache
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\KeeeXAddinOutlook2013-2016.dll
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\KeeeXAddinOutlook2013-2016.pdb
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\KeeeXAddinOutlook2013-2016.dll.manifest
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\KeeeXAddinOutlook2013-2016.vsto
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\Microsoft.Office.Tools.Common.dll
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\Microsoft.Office.Tools.dll
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\obj\Debug\KeeeXAddinOutlook2013-2016.dll
+c:\users\fladnag\documents\visual studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\obj\Debug\KeeeXAddinOutlook2013-2016.pdb
+C:\Users\fladnaG\Documents\Visual Studio 2015\Projects\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\obj\Debug\KeeeXAddinOutlook2013-2016.csprojResolveAssemblyReference.cache
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\KeeeX Add-in pour Outlook 2013 - 2016.dll.config
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\KeeeX Add-in pour Outlook 2013 - 2016.dll
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\KeeeX Add-in pour Outlook 2013 - 2016.pdb
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\KeeeX Add-in pour Outlook 2013 - 2016.dll.manifest
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\KeeeX Add-in pour Outlook 2013 - 2016.vsto
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\Microsoft.Office.Tools.Common.dll
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\Microsoft.Office.Tools.dll
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\obj\Debug\KeeeXAddinOutlook2013_2016.AttachmentList.resources
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\obj\Debug\KeeeXAddinOutlook2013_2016.ContactList.resources
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\obj\Debug\KeeeXAddinOutlook2013_2016.Properties.Resources.resources
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\obj\Debug\KeeeXAddinOutlook2013_2016.Ribbon1.resources
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\obj\Debug\KeeeXAddinOutlook2013_2016.WaitingScreen.resources
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\obj\Debug\KeeeXAddinOutlook2013-2016.csproj.GenerateResource.Cache
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\obj\Debug\KeeeX Add-in pour Outlook 2013 - 2016.dll
+E:\KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016\obj\Debug\KeeeX Add-in pour Outlook 2013 - 2016.pdb

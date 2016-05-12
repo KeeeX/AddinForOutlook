@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeeeXAddinOutlook2013-2016", "KeeeXAddinOutlook2013-2016\KeeeXAddinOutlook2013-2016.csproj", "{72501D5B-5E25-4DC0-9137-019D5BE579A6}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "KeeeX Add-in for Outlook 2010 - 2013 Installer", "KeeeX Add-in for Outlook 2010 - 2013 Installer\KeeeX Add-in for Outlook 2010 - 2013 Installer.isproj", "{DAD83978-E7CA-476E-BAB1-585EF03CA2B2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{72501D5B-5E25-4DC0-9137-019D5BE579A6} = {72501D5B-5E25-4DC0-9137-019D5BE579A6}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72501D5B-5E25-4DC0-9137-019D5BE579A6}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{72501D5B-5E25-4DC0-9137-019D5BE579A6}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{72501D5B-5E25-4DC0-9137-019D5BE579A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72501D5B-5E25-4DC0-9137-019D5BE579A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72501D5B-5E25-4DC0-9137-019D5BE579A6}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{72501D5B-5E25-4DC0-9137-019D5BE579A6}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{72501D5B-5E25-4DC0-9137-019D5BE579A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72501D5B-5E25-4DC0-9137-019D5BE579A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72501D5B-5E25-4DC0-9137-019D5BE579A6}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{72501D5B-5E25-4DC0-9137-019D5BE579A6}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{DAD83978-E7CA-476E-BAB1-585EF03CA2B2}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{DAD83978-E7CA-476E-BAB1-585EF03CA2B2}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{DAD83978-E7CA-476E-BAB1-585EF03CA2B2}.Debug|Any CPU.ActiveCfg = DVD-5
+		{DAD83978-E7CA-476E-BAB1-585EF03CA2B2}.Debug|Any CPU.Build.0 = DVD-5
+		{DAD83978-E7CA-476E-BAB1-585EF03CA2B2}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{DAD83978-E7CA-476E-BAB1-585EF03CA2B2}.DVD-5|Any CPU.Build.0 = DVD-5
+		{DAD83978-E7CA-476E-BAB1-585EF03CA2B2}.Release|Any CPU.ActiveCfg = SingleImage
+		{DAD83978-E7CA-476E-BAB1-585EF03CA2B2}.Release|Any CPU.Build.0 = SingleImage
+		{DAD83978-E7CA-476E-BAB1-585EF03CA2B2}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{DAD83978-E7CA-476E-BAB1-585EF03CA2B2}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
